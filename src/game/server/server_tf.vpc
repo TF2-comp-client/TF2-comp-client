@@ -26,6 +26,11 @@ $Configuration
 
 $Project "Server (TF)"
 {
+	$Folder "Additions"
+	{
+			$File	"tf\banny.cpp"
+	}
+
 	$Folder	"Source Files"
 	{
 		-$File	"AI_ConCommands.cpp"
