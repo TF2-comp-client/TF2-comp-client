@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+	width="1000"
+	height="1000"
+	viewBox="0 0 100 100"
+	version="1.1"
+	id="svg1"
+	xml:space="preserve"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:svg="http://www.w3.org/2000/svg"
+>
+	<defs
+		id="defs1"
+	/>
+	<path
+		id="path1"
+		style="
+			fill:#b8383b;
+			stroke:#fff;
+			stroke-opacity:1;
+			stroke-width:5;
+			stroke-linejoin:miter;
+			stroke-miterlimit:5;
+			fill-opacity:1;
+			paint-order:fill markers stroke
+		"
+		d="M 50 5 L 50 35 A 15 15 0 0 1 63.747656 44 L 94.598242 44 A 45 45 0 0 0 50 5 z "
+	/>
+	<path
+		id="path2"
+		style="
+			fill:#5885a2;
+			stroke:#fff;
+			stroke-opacity:1;
+			stroke-width:5;
+			stroke-linejoin:miter;
+			stroke-miterlimit:5;
+			fill-opacity:1;
+			paint-order:fill markers stroke
+		"
+		d="M 50 5 A 45 45 0 0 0 5 50 L 35 50 A 15 15 0 0 1 50 35 L 50 5 z "
+	/>
+	<path
+		id="path3"
+		style="
+			fill:#5885a2;
+			stroke:#fff;
+			stroke-opacity:1;
+			stroke-width:5;
+			stroke-linejoin:miter;
+			stroke-miterlimit:5;
+			fill-opacity:1;
+			paint-order:fill markers stroke
+		"
+		d="M 5 50 A 45 45 0 0 0 50 95 L 50 65 A 15 15 0 0 1 35 50 L 5 50 z "
+	/>
+	<path
+		id="path4"
+		style="
+			fill:#b8383b;
+			stroke:#fff;
+			stroke-opacity:1;
+			stroke-width:5;
+			stroke-linejoin:miter;
+			stroke-miterlimit:5;
+			fill-opacity:1;
+			paint-order:fill markers stroke
+		"
+		d="M 63.747656 56 A 15 15 0 0 1 50 65 L 50 95 A 45 45 0 0 0 94.598242 56 L 63.747656 56 z "
+	/>
+</svg>
